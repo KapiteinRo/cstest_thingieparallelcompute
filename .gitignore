@@ -9,6 +9,9 @@
 # Vim files
 *~
 
+# Generated output
+*.csv
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
