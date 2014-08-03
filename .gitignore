@@ -6,6 +6,9 @@
 *.user
 *.sln.docstates
 
+# Vim files
+*~
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
